@@ -1,0 +1,9 @@
+C:\Users\sador23\Documents\Visual Studio 2017\Projects\c-sharp-tw3-serializer-sador23\SearchDojo\SearchDojo\bin\Debug\SearchDojo.exe.config
+C:\Users\sador23\Documents\Visual Studio 2017\Projects\c-sharp-tw3-serializer-sador23\SearchDojo\SearchDojo\bin\Debug\SearchDojo.exe
+C:\Users\sador23\Documents\Visual Studio 2017\Projects\c-sharp-tw3-serializer-sador23\SearchDojo\SearchDojo\bin\Debug\SearchDojo.pdb
+C:\Users\sador23\Documents\Visual Studio 2017\Projects\c-sharp-tw3-serializer-sador23\SearchDojo\SearchDojo\obj\Debug\SearchDojo.csprojResolveAssemblyReference.cache
+C:\Users\sador23\Documents\Visual Studio 2017\Projects\c-sharp-tw3-serializer-sador23\SearchDojo\SearchDojo\obj\Debug\SearchDojo.Form1.resources
+C:\Users\sador23\Documents\Visual Studio 2017\Projects\c-sharp-tw3-serializer-sador23\SearchDojo\SearchDojo\obj\Debug\SearchDojo.Properties.Resources.resources
+C:\Users\sador23\Documents\Visual Studio 2017\Projects\c-sharp-tw3-serializer-sador23\SearchDojo\SearchDojo\obj\Debug\SearchDojo.csproj.GenerateResource.Cache
+C:\Users\sador23\Documents\Visual Studio 2017\Projects\c-sharp-tw3-serializer-sador23\SearchDojo\SearchDojo\obj\Debug\SearchDojo.exe
+C:\Users\sador23\Documents\Visual Studio 2017\Projects\c-sharp-tw3-serializer-sador23\SearchDojo\SearchDojo\obj\Debug\SearchDojo.pdb
